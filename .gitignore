@@ -1,0 +1,11 @@
+.vs/python game/v16/.suo
+.vs/python game1/v16/.suo
+.vscode/settings.json
+__pycache__/actions.cpython-39.pyc
+__pycache__/engine.cpython-39.pyc
+__pycache__/entity.cpython-39.pyc
+__pycache__/game_map.cpython-39.pyc
+__pycache__/input_handlers.cpython-39.pyc
+__pycache__/procgen.cpython-39.pyc
+__pycache__/tile_types.cpython-39.pyc
+__pycache__/entity_factories.cpython-39.pyc
